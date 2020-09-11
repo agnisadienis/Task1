@@ -8,15 +8,15 @@ Download and open as a project. (Recomend to open with Visual Studio 2019 by cho
 - Row.cs - contains Row class
 
 Document.cs
--holds Document number, max sum, date and row array
--getDate: Gets the following monday
--createRows: Creates row values
--and has print methods
+- holds Document number, max sum, date and row array
+- getDate: Gets the following monday
+- createRows: Creates row values
+- and has print methods
 
 
 Row.cs
--holds RowSum, Code
--has a print method
+- holds RowSum, Code
+- has a print method
 
 --------------------------------------------------
 Izpildot kodu, tiek izvadīta sekojoša informācija:
