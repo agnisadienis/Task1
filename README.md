@@ -3,9 +3,9 @@ Author: Agnis Adienis agnisadienis@gmail.com
 
 Download and open as a project. (Recomend to open with Visual Studio 2019 by choosing Task1.sln file)
 
--Program.cs - main file
--Document.cs - contains Document class 
--Row.cs - contains Row class
+- Program.cs - main file
+- Document.cs - contains Document class 
+- Row.cs - contains Row class
 
 Document.cs
 -holds Document number, max sum, date and row array
